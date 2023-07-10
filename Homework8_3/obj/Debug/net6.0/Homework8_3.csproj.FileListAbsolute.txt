@@ -1,0 +1,15 @@
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/bin/Debug/net6.0/Homework8_3
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/bin/Debug/net6.0/Homework8_3.deps.json
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/bin/Debug/net6.0/Homework8_3.runtimeconfig.json
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/bin/Debug/net6.0/Homework8_3.dll
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/bin/Debug/net6.0/Homework8_3.pdb
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/Homework8_3.csproj.AssemblyReference.cache
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/Homework8_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/Homework8_3.AssemblyInfoInputs.cache
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/Homework8_3.AssemblyInfo.cs
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/Homework8_3.csproj.CoreCompileInputs.cache
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/Homework8_3.dll
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/refint/Homework8_3.dll
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/Homework8_3.pdb
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/Homework8_3.genruntimeconfig.cache
+/Users/tanyamccarthy/Desktop/c#/C_Homework_8/Homework8_3/obj/Debug/net6.0/ref/Homework8_3.dll
