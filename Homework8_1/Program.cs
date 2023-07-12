@@ -32,10 +32,27 @@ int[,] GenerateRandomArray(int rows, int columns, int minValue, int maxValue)
     return array;
 }
 
-int[] SortRowDescending(int[] row) //The array of integer is taken as a parameter, the function will sort and reverse the numbers in the original array 
+// int[] SortRowDescending(int[] row) //The array of integer is taken as a parameter, the function will sort and reverse the numbers in the original array 
+// {
+//     Array.Sort(row);
+//     Array.Reverse(row);
+//     return row;
+// }
+
+int[] SortRowDescending(int[] row)
 {
-    Array.Sort(row);
-    Array.Reverse(row);
+    for (int i = 0; i < row.Length - 1; i++)
+    {
+        for (int j = 0; j < row.Length - i - 1; j++)
+        {
+            if (row[j] < row[j + 1])
+            {
+                int temp = row[j];
+                row[j] = row[j + 1];
+                row[j + 1] = temp;
+            }
+        }
+    }
     return row;
 }
 
